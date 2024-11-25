@@ -1,6 +1,8 @@
 # go-start
 CLI to launch 4D CLI
 
+work in progress; idea is to make an alternative to *Updater.exe*
+
 ## Usage
 
 ```
