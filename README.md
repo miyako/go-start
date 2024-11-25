@@ -1,6 +1,12 @@
 # go-start
 CLI to launch 4D CLI
 
+## Usage
+
+```
+./start -applicationPath /Applications/4D\ 20.5/4D.app -project /Users/miyako/Desktop/example.4DLink
+```
+
 ## Go Build
 
 ```
