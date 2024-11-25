@@ -5,6 +5,7 @@ CLI to launch 4D CLI
 
 ```
 ./start -applicationPath /Applications/4D\ 20.5/4D.app -project /Users/miyako/Desktop/example.4DLink
+start.exe  -applicationPath "C:\Users\Public\Desktop\4D.lnk" -project "C:\Users\miyako\AppData\Roaming\4D\Favorites v20\Local\example.4DLink"
 ```
 
 ## Go Build
